@@ -48,7 +48,12 @@ html {
 
 #a {
     text-decoration: none;
+    color: black;
 }
+#a:visited{
+    color:black;
+}
+
 .nav_li:active,
 .nav_li:hover {
     background-color: rgba(255, 255, 255, 0.9);
